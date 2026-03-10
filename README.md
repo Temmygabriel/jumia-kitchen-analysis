@@ -134,7 +134,6 @@ pip install requests beautifulsoup4 pandas matplotlib seaborn openpyxl lxml
 ---
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn URL here]
 - 🐙 GitHub: [github.com/Temmygabriel](https://github.com/Temmygabriel)
 
 ---
